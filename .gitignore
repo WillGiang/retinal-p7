@@ -1,0 +1,17 @@
+
+*.tif
+*.csv
+*.jpg
+*.zip
+original_FITC-10X/42-3-4/TileConfiguration.registered.txt
+original_FITC-10X/42-3-3/TileConfiguration.txt
+original_FITC-10X/42-3-3/TileConfiguration.registered.txt
+original_FITC-10X/42-2-1/TileConfiguration.registered.txt
+original_FITC-10X/42-2-1/TileConfiguration.txt
+original_FITC-10X/42-2-2/TileConfiguration.registered.txt
+original_FITC-10X/42-2-2/TileConfiguration.txt
+original_FITC-10X/42-3-4/TileConfiguration.txt
+*.un~
+*.txt
+*.java~
+*.txt~
